@@ -45,3 +45,5 @@ Database Integration: Replace the in-memory list with SQLite or MongoDB for pers
 Input Validation: Add checks for required fields and data types.
 Authentication: Implement API keys or JWT for secure access.
 Deployment: Host on platforms like Heroku or AWS for public use.
+
+![Image](https://github.com/user-attachments/assets/fa7107e1-e00b-41c5-81f1-b00168a5658a)
